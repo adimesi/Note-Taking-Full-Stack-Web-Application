@@ -91,17 +91,6 @@ Note-Taking-Full-Stack-Web-Application
 
 ---
 
-## API Endpoints
-
-| Method | Endpoint        | Description              |
-|--------|------------------|--------------------------|
-| GET    | /api/notes       | Get all/paginated notes  |
-| POST   | /api/notes       | Create a new note        |
-| PUT    | /api/notes/:id   | Update a note by ID      |
-| DELETE | /api/notes/:id   | Delete a note by ID      |
-
----
-
 ## Future Improvements
 
 - User authentication (JWT or OAuth)
